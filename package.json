@@ -1,0 +1,19 @@
+{
+  "name": "submission-dicoding",
+  "version": "1.0.0",
+  "description": "submission for dicoding",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node ./src/server.js",
+    "start:prod": "node ./src/server.js"
+  },
+  "author": "darman",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "dotenv": "^16.3.1",
+    "nanoid": "^3.1.16"
+  }
+}

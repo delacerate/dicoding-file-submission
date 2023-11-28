@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build files
+build/
+dist/
+
+# Configuration files
+.env
+.env.test
+.env.production
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
